@@ -10,7 +10,7 @@
 
 [发布-订阅模式](https://blog.csdn.net/qq_34707744/article/details/79170052)
 
-![image](https://note.youdao.com/yws/public/resource/69eb94b76a10da5388ddcc0ce3590fd4/xmlnote/7451CB37AA384590AE88F557A5EFE151/2839)
+![image](/img/img3.png?raw=true)
 
 代码实现步骤：
 1. 根据上图实现一个整体的架构（包括MVVM类、或者VUE类、Watcher类），这里用到一个订阅发布者模式。
