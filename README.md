@@ -1,4 +1,4 @@
-![image](https://github.com/yyFLY/dataBinding/img/img1.gif)
+![image](/yyFLY/dataBinding/blob/master/img/img1.gif?raw=true)
 
 #### 前言：这是一段很简单的代码，很多细节并没有去做最优处理，目的是为了让大家大致了解VUE双向绑定的过程，然后再细读源码会有不同的收获。
 
@@ -659,7 +659,7 @@
 将代码运行到浏览器后就能看到效果了
 [代码地址](https://note.youdao.com/)
 
-![image](https://github.com/yyFLY/dataBinding/img/img2.gif)
+![image](/yyFLY/dataBinding/blob/master/img/img2.gif?raw=true)
 
 参考资料来自
 [CSDN](https://blog.csdn.net/qq_34707744/article/details/79170052)
