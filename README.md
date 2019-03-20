@@ -657,7 +657,7 @@
 此时我们已经完成了所有的代码。
 
 将代码运行到浏览器后就能看到效果了
-[代码地址](https://note.youdao.com/)
+[代码地址](https://github.com/yyFLY/dataBinding/blob/master/vue.html)
 
 ![image](/img/img2.gif?raw=true)
 
