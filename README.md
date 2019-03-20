@@ -1,4 +1,4 @@
-![image](https://note.youdao.com/yws/public/resource/69eb94b76a10da5388ddcc0ce3590fd4/xmlnote/WEBRESOURCEd648cdc96d0147c0f6920d5b1bb989a9/3096)
+![image](https://github.com/yyFLY/dataBinding/img/img1.gif)
 
 #### 前言：这是一段很简单的代码，很多细节并没有去做最优处理，目的是为了让大家大致了解VUE双向绑定的过程，然后再细读源码会有不同的收获。
 
@@ -659,8 +659,8 @@
 将代码运行到浏览器后就能看到效果了
 [代码地址](https://note.youdao.com/)
 
-![image](https://note.youdao.com/yws/public/resource/69eb94b76a10da5388ddcc0ce3590fd4/xmlnote/WEBRESOURCEd648cdc96d0147c0f6920d5b1bb989a9/3096)
+![image](https://github.com/yyFLY/dataBinding/img/img2.gif)
 
-
-
-[参考自网易云课堂](https://study.163.com/course/courseLearn.htm?courseId=1209072812#/learn/live?lessonId=1278614266&courseId=1209072812)
+参考资料来自
+[CSDN](https://blog.csdn.net/qq_34707744/article/details/79170052)
+[网易云课堂](https://study.163.com/course/courseLearn.htm?courseId=1209072812#/learn/live?lessonId=1278614266&courseId=1209072812)
